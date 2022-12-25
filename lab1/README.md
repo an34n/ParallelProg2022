@@ -170,7 +170,7 @@ int main(int argc, char** argv)
 </details>
 
     
-![png](imgs/output_6_0.png)
+![png](imgs/output1.png)
     
 
 
@@ -200,7 +200,7 @@ int main(int argc, char** argv)
 </details>
 
     
-![png](imgs/output_7_0.png)
+![png](imgs/output2.png)
     
 
 
@@ -230,7 +230,7 @@ int main(int argc, char** argv)
 </details>
 
     
-![png](imgs/output_8_0.png)
+![png](imgs/output3.png)
 
 ## Заключение
 
